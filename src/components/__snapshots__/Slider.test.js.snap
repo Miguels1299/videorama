@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <Slider /> Mostrar componente correctamente 1`] = `
+<div
+  className="netslider-container"
+  style={
+    Object {
+      "height": "300px",
+      "overflow": "hidden",
+    }
+  }
+>
+  <h1
+    style={
+      Object {
+        "marginTop": "40px",
+        "paddingLeft": "4%",
+        "textAlign": "left",
+      }
+    }
+  >
+    Pelicula
+  </h1>
+  <t
+    className="netslider_title_card"
+    data={
+      Array [
+        Object {
+          "id": 1,
+          "image": "https://occ-0-1229-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZkJbs3ZqZsg0PrW4wd4VqEDOJljJdlSqeFthGwNQ49mX2UqkUwQBwquT3In6z7DtSCT1z8TRwYY_uKprg5a_rcx8v947ocQj2RyjkQ_dhwCqwDaS1O9wWYmqOiv.jpg",
+          "imageHighRes": "https://occ-0-1229-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZkJbs3ZqZsg0PrW4wd4VqEDOJljJdlSqeFthGwNQ49mX2UqkUwQBwquT3In6z7DtSCT1z8TRwYY_uKprg5a_rcx8v947ocQj2RyjkQ_dhwCqwDaS1O9wWYmqOiv.jpg",
+        },
+        Object {
+          "id": 2,
+          "image": "https://occ-0-1229-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRGA5vLR9JW1REzbP5nniTuHbCNr3dr08nHGABq59Qrn3gzf3bNn0uk86pffebgVDwQr1ikfI7s7upNkiQZ4XR9VwAo.jpg",
+          "imageHighRes": "https://occ-0-1229-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRGA5vLR9JW1REzbP5nniTuHbCNr3dr08nHGABq59Qrn3gzf3bNn0uk86pffebgVDwQr1ikfI7s7upNkiQZ4XR9VwAo.jpg",
+        },
+      ]
+    }
+    hideRowHeader={true}
+    id="83"
+    jawBoneRankNum={null}
+    slideTemplate={[Function]}
+    videoRoot="reference"
+  />
+</div>
+`;
